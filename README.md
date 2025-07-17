@@ -1,2 +1,2 @@
 # Hangman-Game-Classic-Word-Guessing-with-JavaScript
-The Hangman Game is a classic word-guessing challenge recreated with HTML, CSS, and JavaScript.
+The Hangman Game is a classic word-guessing challenge recreated with HTML, CSS, and JavaScript.Players try to guess a hidden word by suggesting letters within a limited number of attempts. This web-based version features interactive gameplay, dynamic word generation, and responsive visual feedback. JavaScript handles game logic and user interaction, while HTML and CSS create an engaging and intuitive interface. Perfect as a beginner-friendly project to practice DOM manipulation, event handling, and basic game mechanics.
